@@ -1,0 +1,23 @@
+{
+    "userId": 1315,
+    "type": "DAY_OFF",
+    "status": "PENDING",
+    "draft": true,
+    "days": 9,
+    "dateFrom": "2022-09-03",
+    "dateTo": "2022-09-11",
+    "managers": [
+      {
+        "id": 429,
+        "userId": 1316,
+        "firstName": "Sergey",
+        "lastName": "Konon",
+        "middleName": null,
+        "departmentType": "QA",
+        "type": "DEPARTMENT",
+        "topManager": false,
+        "customer": null,
+        "project": null
+      }
+    ]
+  }

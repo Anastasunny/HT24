@@ -1,0 +1,10 @@
+{
+    "env": {
+        "baseUrl": "https://catalog.onliner.by"
+    },
+    "video": false,
+    "screenshotOnRunFailure": false,
+    "integrationFolder": "cypress/tests",
+    "defaultCommandTimeout": 30000
+  }
+  
